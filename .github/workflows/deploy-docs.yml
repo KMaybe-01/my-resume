@@ -39,8 +39,8 @@ jobs:
         run: pnpm docs:build
 
       # 查看 workflow 的文档来获取更多信息
-      - name: Deploy to GitHub Pages
-        uses: KMaybe01/resume@v2
+      - name: Deploy resume
+        uses: KMaybe01/resume@v4
         with:
           # 部署到 gh-pages 分支
           target_branch: gh-pages
