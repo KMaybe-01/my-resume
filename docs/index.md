@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: XXX
+heroText: 陈伟杰
 tagline: Web 前端开发
 ---
 
@@ -11,7 +11,7 @@ tagline: Web 前端开发
 
 ## 工作经历
 
-<div :style="{display: 'flex', justifyContent: 'space-between'}">
+<div style="{display: 'flex', justifyContent: 'space-between'}">
   <div>XXXX公司1</div>
   <div>XX工程师</div>
   <div>XXXX项目组</div>
@@ -20,7 +20,7 @@ tagline: Web 前端开发
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<div :style="{display: 'flex', justifyContent: 'space-between'}">
+<div style="{display: 'flex', justifyContent: 'space-between'}">
   <div>XXXX公司2</div>
   <div>XX工程师</div>
   <div>XXXX项目组</div>
@@ -59,7 +59,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ## 教育经历
 
-<div :style="{display: 'flex', justifyContent: 'space-between'}">
+<div style="{display: 'flex', justifyContent: 'space-between'}">
   <div>XXXX/XX-XXXX/XX</div>
   <div>XXXXX大学</div>
   <div>本科</div>
