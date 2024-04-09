@@ -4,7 +4,7 @@ import { defineUserConfig } from 'vuepress';
 
 export default defineUserConfig({
     base: '/resume/docs',
-    title: 'Resume',
+    title: '陈伟杰',
     description: 'Resume',
 
     bundler: viteBundler({
