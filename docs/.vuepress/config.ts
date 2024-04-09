@@ -3,7 +3,7 @@ import { defaultTheme } from '@vuepress/theme-default';
 import { defineUserConfig } from 'vuepress';
 
 export default defineUserConfig({
-    base: '/resume',
+    base: '/resume/docs',
     title: 'Resume',
     description: 'Resume',
 
