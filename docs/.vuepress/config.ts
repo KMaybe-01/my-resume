@@ -13,6 +13,7 @@ export default defineUserConfig({
         // default theme options here
         // 不需要导航栏
         navbar: false,
+        docsDir: 'docs',
 
     }),
 });
