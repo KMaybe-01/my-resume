@@ -3,7 +3,7 @@ import { defaultTheme } from '@vuepress/theme-default';
 import { defineUserConfig } from 'vuepress';
 
 export default defineUserConfig({
-    base: '/',
+    base: '/resume',
     title: '陈伟杰',
 
     bundler: viteBundler({
